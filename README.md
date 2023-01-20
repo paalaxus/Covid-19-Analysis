@@ -5,4 +5,4 @@ The COVID19 dataset, published by John Hopkins University,  consists of the data
 In this analysis, I  calculate needed measures and prepare them for an Analysis.
 The two datasets were mergeged to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
 
-The Jupyter notebook with the analysis has been attached
+The Jupyter notebook with the analysis as well as the datasets have been attached
